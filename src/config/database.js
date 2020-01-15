@@ -1,8 +1,8 @@
 module.exports = {
     dialect: 'mysql',
-    host: 'localhost',
-    username: 'root',
-    password: '',
+    host: 'mysql669.umbler.com',
+    username: 'sqlnode',
+    password: 'sqlnodesql',
     database: 'sqlnode',
     define: {
         timestamp: true,
